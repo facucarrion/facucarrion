@@ -13,8 +13,8 @@ ___
     name: 'Facundo Carrion',
     age: 17,
 
-    knowledge: ['Html', 'Css'],
-    learning: ['Javascript']
+    knowledge: ['Html', 'Css', 'Javascript'],
+    learning: ['React']
   }
 ```
 
