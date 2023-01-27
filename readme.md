@@ -1,18 +1,16 @@
-<h1 align='center'>
-  Hi 👋🏼​, I'm Facucarrion​
+<h1>
+  Hi, I'm Facucarrion👋🏼​,
 </h1>
 
-<h3 align='center'>
-  A passionate about the ITs from Argentina. Actually I am learning and training to be a FullStack Web Developer.
-</h3>
+Soy Desarrollador Web 👨🏻‍💻, apasionado por combinar lo técnico con lo abstracto y el rendimiento con la estética. Estoy en busca de Experiencia realizando proyectos como Freelance, Colaborando 👥 con colegas de la industria.
+
+![]([https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png](https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg)){width='100px'}
 
 ___
 
 ```JS
   const aboutMe = {
-    name: 'Facundo Carrion',
     age: 17,
-
     knowledge: [
       'Html', 
       'Css', 
@@ -24,10 +22,4 @@ ___
 
 ___
 
-<h2>
-  🌐​ You can find me on:
-</h2>
-
-- [Instagram](https://www.instagram.com/facucarrionn/) as @facucarrionn
-- [Twitter](https://twitter.com/facucarrionn) as @facucarrionn
-- Discord as facucarrionn#0912
+🌐​ Checkout my [Linktree](https://www.linktr.ee/facucarrionn)
