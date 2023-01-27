@@ -12,8 +12,6 @@
   <img src="https://img.shields.io/badge/LinkTree-%1de9b6.svg?style=flat-square&logo=linktree&logoColor=white" alt="Linktree">
 </a>
 
----
-
 ## Hola👋🏻, Bienvenido a mi Github
 
 Soy Desarrollador Web 👨🏻‍💻, apasionado por combinar lo técnico con lo abstracto y el rendimiento con la estética. Actualmente utilizo React con Javascript y SASS, pero tengo conocimientos de frameworks como Bootstrap, Material UI y similares.
