@@ -16,7 +16,7 @@
 
 Soy Desarrollador Web 👨🏻‍💻, apasionado por combinar lo técnico con lo abstracto y el rendimiento con la estética. Actualmente utilizo React con Javascript y SASS, pero tengo conocimientos de frameworks como Bootstrap, Material UI y similares.
 
-> Soy Autodidacta y Freelancer con intereses en el Emprendimiento y en el Desarrollo Personal
+> Soy Autodidacta con intereses en el Emprendimiento y en el Desarrollo Personal
 
 Estoy en busca de Experiencia realizando proyectos como Freelance. Tengo facilidad para aprender nuevas tecnologías y para resolver problemas cotidianos.
 
