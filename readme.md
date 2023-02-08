@@ -28,5 +28,5 @@ Estoy en busca de Experiencia realizando proyectos como Freelance. Tengo facilid
 
 <div width="100%" height="500px" display='flex' alignItems="center">
   <img src="https://github-readme-stats.vercel.app/api?username=facucarrion&include_all_commits=true&show_icons=true&bg_color=000011&title_color=ebc634&text_color=efefef&icon_color=ff4642&line_height=34" width="50%" height="220px">
-  <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=great-gatsby" width="45%">
+  <img src="https://streak-stats.demolab.com/?user=facucarrion&theme=great-gatsby" width="45%">
 </div>
