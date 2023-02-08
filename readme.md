@@ -26,10 +26,7 @@ Estoy en busca de Experiencia realizando proyectos como Freelance. Tengo facilid
 
 <br />
 
-<div width="100%" height="500px">
-  <img src="https://github-readme-stats.vercel.app/api?username=facucarrion&include_all_commits=true&show_icons=true&bg_color=000011&title_color=ebc634&text_color=efefef&icon_color=ff4642&line_height=34" width="60%" height="220px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=facucarrion&show_icons=true&locale=en&bg_color=000011&title_color=ebc634&text_color=efefef&icon_color=ff4642" width="39%" height="220px">
+<div width="100%" height="500px" display='flex' alignItems="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=facucarrion&include_all_commits=true&show_icons=true&bg_color=000011&title_color=ebc634&text_color=efefef&icon_color=ff4642&line_height=34" width="50%" height="220px">
+  <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=great-gatsby" width="45%">
 </div>
-
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=madushadhanushka&
-include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/> -->
